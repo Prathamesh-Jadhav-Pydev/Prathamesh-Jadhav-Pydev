@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<br>
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python,Data Science, Machine Learning
