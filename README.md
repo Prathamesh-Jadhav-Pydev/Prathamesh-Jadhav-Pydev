@@ -2,12 +2,15 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <br>
+<h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
+
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python,Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on for next project
 - 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_tech_studio
-- 
+
+
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
