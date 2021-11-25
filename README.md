@@ -21,7 +21,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-jadhav-2021/)](https://www.linkedin.com/in/prathamesh-jadhav-2021/)
-[![Gmail Badge](https://img.shields.io/badge/-prajadhav1243@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prathameshj680@gmail.com)](mailto:prathameshj680@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-prathameshj680@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prathameshj680@gmail.com)](mailto:prathameshj680@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Prathmesh_J29-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prathameshtechs)](https://twitter.com/prathameshtechs)
 <!---
 Prathamesh-Jadhav-Pydev/Prathamesh-Jadhav-Pydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
