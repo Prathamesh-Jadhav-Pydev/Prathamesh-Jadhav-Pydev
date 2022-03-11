@@ -16,7 +16,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied MCA at BVIMIT CBD Belapur Navi Mumbai.
 - 💼 &nbsp; Learning about Data Science, Machine Learning, Aritificial Intelligence,Deep learning, NLP.
-- 👨🏻‍💻 &nbsp; Entry Level Data Scientist
+- 👨🏻‍💻 &nbsp; Entry Level Data Analyst
 
 <br>
 
