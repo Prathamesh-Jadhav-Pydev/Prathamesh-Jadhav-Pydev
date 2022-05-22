@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
 - 👀 I’m interested in ReactJS Developer  
-- 🌱 I’m currently learning HTML,CSS,JavaScript,ReactJs,Bootstrap,Tailwind CSS.
+- 🌱 I’m currently learning HTML,CSS,JavaScript,React Js,Bootstrap,Tailwind CSS.
 - 💞️ I’m looking to collaborate on for next project
 - 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_tech_studio
 
