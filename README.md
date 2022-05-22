@@ -5,8 +5,8 @@
 <h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
 
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python,Data Science, Machine Learning,Deep Learning,Computer Vision.
+- 👀 I’m interested in ReactJS Developer  
+- 🌱 I’m currently learning HTML,CSS,JavaScript,ReactJs,Bootstrap,Tailwind CSS.
 - 💞️ I’m looking to collaborate on for next project
 - 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_tech_studio
 
@@ -15,8 +15,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied MCA at BVIMIT CBD Belapur Navi Mumbai.
-- 💼 &nbsp; Learning about Data Science, Machine Learning, Aritificial Intelligence,Deep learning, NLP.
-- 👨🏻‍💻 &nbsp; Web developer MERN stack,Entry Level Data Analyst
+- 💼 &nbsp; Learning about Front-end Web Developement.
+- 👨🏻‍💻 &nbsp; ReactJS Web Developer.
 
 <br>
 
