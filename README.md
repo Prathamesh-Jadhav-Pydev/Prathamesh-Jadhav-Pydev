@@ -5,7 +5,7 @@
 <h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
 
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
-- 👀 I’m interested in ReactJS Developer  
+- 👀 I’m interested in Golang Developer  
 - 🌱 I’m currently learning HTML,CSS,JavaScript,React Js,Bootstrap,Tailwind CSS.
 - 💞️ I’m looking to collaborate on for next project
 - 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_jadhav-2022
