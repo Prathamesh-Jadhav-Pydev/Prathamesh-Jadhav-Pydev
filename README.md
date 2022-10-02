@@ -8,7 +8,7 @@
 - 👀 I’m interested in ReactJS Developer  
 - 🌱 I’m currently learning HTML,CSS,JavaScript,React Js,Bootstrap,Tailwind CSS.
 - 💞️ I’m looking to collaborate on for next project
-- 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_tech_studio
+- 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_jadhav-2022
 
 
 ## 👨🏻‍💻 &nbsp;About Me 
@@ -20,7 +20,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Prathamesh-Jadhav-2021-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-jadhav-2021/)](https://www.linkedin.com/in/prathamesh-jadhav-2021/)
+[![LinkedIn](https://img.shields.io/badge/-Prathamesh-Jadhav-2021-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-jadhav-2021)](https://www.linkedin.com/in/prathamesh-jadhav-2021)
 [![Gmail Badge](https://img.shields.io/badge/-prathameshj680@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prathameshj680@gmail.com)](mailto:prathameshj680@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Prathamesh_Jadhav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prathameshtechs)](https://twitter.com/mL_Prathamesh)
 <!---
