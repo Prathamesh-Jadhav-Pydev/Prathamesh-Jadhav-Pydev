@@ -15,8 +15,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied MCA at BVIMIT CBD Belapur Navi Mumbai.
-- 💼 &nbsp; Learning about Front-end Web Developement.
-- 👨🏻‍💻 &nbsp; ReactJS Web Developer.
+- 💼 &nbsp; Learning about Backend Web Developement.
+- 👨🏻‍💻 &nbsp; Backend Web Developer.
 
 <br>
 
