@@ -5,7 +5,7 @@
 <h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
 
 - 👋 Hi, I’m @Prathamesh-Jadhav-Pydev
-- 👀 I’m interested in Python and Golang Developer  
+- 👀 I’m interested in Front end as well as Python and Golang Developer  
 - 🌱 I’m currently learning HTML,CSS,JavaScript,Python,Golang,MySql.
 - 💞️ I’m looking to collaborate on for next project
 - 📫 How to reach me email me prathameshj680@gmail.com or through instagram @prathamesh_jadhav_2022
@@ -16,7 +16,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied MCA at BVIMIT CBD Belapur Navi Mumbai.
 - 💼 &nbsp; Learning about Backend Web Developement.
-- 👨🏻‍💻 &nbsp; Backend Web Developer.
+- 👨🏻‍💻 &nbsp; Frontend Web Developer.
 
 <br>
 
